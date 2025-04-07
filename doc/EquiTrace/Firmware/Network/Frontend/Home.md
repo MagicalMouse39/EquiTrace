@@ -1,0 +1,3 @@
+Displays the current version of the storage [[Firmware/Functionalities/Stable registry|Stable registry]], as HTML table.
+Each row has an edit and a delete button, calling respectively [[Firmware/Network/API/POST/Stable registry horse|[POST] Stable registry horse]] and [[Firmware/Network/API/DELETE/Stable registry horse|[DELETE] Stable registry horse]].
+The two "delete entire registry" and "upload entire registry" buttons will be placed in the page's header, calling respectively [[Firmware/Network/API/DELETE/Stable registry|[DELETE] Stable registry]] and [[Firmware/Network/API/PUT/Stable registry|[PUT] Stable registry]].
