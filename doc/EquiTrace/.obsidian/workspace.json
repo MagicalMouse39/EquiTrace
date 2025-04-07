@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firmware/Database/Horses.md",
+                "file": "Hardware/Case.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Horses"
+              "title": "Case"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Firmware/Database/Horses.md",
+                "file": "Hardware/Case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Horses"
+              "title": "Backlinks for Case"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Firmware/Database/Horses.md",
+                "file": "Hardware/Case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Horses"
+              "title": "Outgoing links from Case"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Firmware/Database/Horses.md",
+                "file": "Hardware/Case.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Horses"
+              "title": "Outline of Case"
             }
           }
         ]
@@ -186,8 +186,13 @@
   },
   "active": "b23788046f8cf052",
   "lastOpenFiles": [
-    "Firmware/Functionalities/Stable registry.md",
+    "Firmware/Database/FAT Filesystem Support.md",
+    "Firmware/Network/mDNS.md",
+    "Firmware/Network/DHCP.md",
+    "Hardware/Case.md",
+    "Hardware/Components.md",
     "Firmware/Database/Horses.md",
+    "Firmware/Functionalities/Stable registry.md",
     "Firmware/Database",
     "Firmware/Network/API/DELETE/[DELETE] Stable registry horse.md",
     "Firmware/Network/API/POST/Stable registry.md",
@@ -215,11 +220,6 @@
     "Firmware/UI/Pages/Repeat scan page.md",
     "Firmware/UI/Pages/Start scan page.md",
     "Firmware/UI/Home.md",
-    "Multiple.md",
-    "Firmware/Network/Access point.md",
-    "Firmware/Functionalities/Single scan.md",
-    "Firmware/Functionalities/Repeat scan.md",
-    "Firmware/UI/Components/Repeat scan table.md",
     "Firmware/Network/Frontend",
     "Firmware/Network/API/POST",
     "Firmware/Network/API/PUT",
