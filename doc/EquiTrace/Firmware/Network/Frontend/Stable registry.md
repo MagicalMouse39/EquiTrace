@@ -1,0 +1,1 @@
+Displays the current version of the storage [[Firmware/Functionalities/Stable registry|Stable registry]], as HTML table.

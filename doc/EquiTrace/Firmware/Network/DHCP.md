@@ -1,0 +1,1 @@
+Assign IP and (most importantly) DNS server to the [[Client]]

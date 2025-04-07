@@ -1,2 +1,2 @@
 The scan is started on [[Single scan page]] display.
-When a microchip is found, the page gets populated with the horse's data if a [[Stable registry]] has been uploaded, a red box with the microchip number will be shown otherwise.
+When a microchip is found, the user is redirected to the [[Horse data page]] page, which is populated with the horse's data if a [[Firmware/Functionalities/Stable registry|StableRegistry]] has been uploaded, a red box with the microchip number will be shown otherwise.
